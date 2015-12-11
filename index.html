@@ -4,8 +4,9 @@
   <meta charset="utf-8">
   <link href='https://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
   <link href="css/style.css" rel="stylesheet">
-  <!-- Load the D3 Library -->
   <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+  
   <title>Parents' Effect on Education by Grace Pehl, PhD</title>
 </head>
 <body>
@@ -24,12 +25,9 @@
 			<img src="http://placehold.it/20x20">
 			<img src="http://placehold.it/20x20">
 		</div>
-		<div id="plot">
-			<script src="js/PISAplot.js"></script>
-			<img src="http://placehold.it/400x300">
-		</div>
+		<div id="chart"></div>
 		<div id="explanation">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat, tortor vitae cursus luctus, tellus magna eleifend nulla, ut interdum mauris risus at ipsum. Proin placerat mi dictum, lacinia ex lacinia, interdum mauris. Donec sit amet ullamcorper neque, sit amet rhoncus sem. Ut vel suscipit mauris, sit amet interdum magna. Mauris tincidunt libero sed auctor eleifend. Nunc consequat ac ligula non finibus. Aenean at sapien ut ante accumsan bibendum sed non quam.
+			<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat, tortor vitae cursus luctus, tellus magna eleifend nulla, ut interdum mauris risus at ipsum. Proin placerat mi dictum, lacinia ex lacinia, interdum mauris. Donec sit amet ullamcorper neque, sit amet rhoncus sem. Ut vel suscipit mauris, sit amet interdum magna. Mauris tincidunt libero sed auctor eleifend. Nunc consequat ac ligula non finibus. Aenean at sapien ut ante accumsan bibendum sed non quam.</span>
 		</div>
 	</div>
 	<div id="footnotes" class="gray">
@@ -39,5 +37,6 @@
 	<div id="footer" class="center-content clear-fix dark-gray">
 		<span class="color-text"> Grace Pehl, PhD </span>
 	</div>
+	<script src="js/PISAplot.js"></script>
 </body>
 </html>
