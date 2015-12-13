@@ -3,7 +3,6 @@ function draw(data) {
 		width = 600 - margin,
 		height = 400 - margin,
 		barHeight = 20;
-	var viewBox_dims = '0 0 '.concat((width + margin).toString(), ' ', (height + margin).toString());
 
 	/* 0 http://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js */
 	var svg = d3.select("#chart")
@@ -15,7 +14,7 @@ function draw(data) {
 
 	/* Use dimple.js to make the chart */
 	var myChart = new dimple.chart(svg, data);
-	myChart.addMeasureAxis("x", "Reading");
+	myChart.addMeasureAxis("x", "Math");
 	myChart.addCategoryAxis('y', ['Country', 'Father']);
 	myChart.addSeries(null, dimple.plot.bar);
 	myChart.draw()
@@ -26,5 +25,5 @@ function draw(data) {
 	};
 };
 
-d3.csv('data/dummydata.csv', draw);
+d3.csv('data/pisaFatherData.csv', draw);
 	
