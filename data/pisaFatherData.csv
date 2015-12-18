@@ -1,34 +1,136 @@
 "Country","Father","Math"
-"Croatia","Absent",462.151
-"Croatia","In the Home",468.383
-"Croatia",NA,416.739
-"Denmark","Absent",467.76
-"Denmark","In the Home",495.256
-"Denmark",NA,418.453
-"Germany","Absent",515.002
-"Germany","In the Home",527.193
-"Germany",NA,480.924
-"Hong Kong-China","Absent",560.999
-"Hong Kong-China","In the Home",572.955
-"Hong Kong-China",NA,491.829
-"Italy","Absent",482.326
-"Italy","In the Home",496.035
-"Italy",NA,441.821
-"Korea","Absent",546.199
-"Korea","In the Home",561.154
-"Korea",NA,487.467
-"Lithuania","Absent",467.682
-"Lithuania","In the Home",485.442
-"Lithuania",NA,426.554
-"Macao-China","Absent",530.542
-"Macao-China","In the Home",545.576
-"Macao-China",NA,485.909
-"New Zealand","Absent",468.305
-"New Zealand","In the Home",509.511
-"New Zealand",NA,424.685
-"Portugal","Absent",481.586
-"Portugal","In the Home",492.958
-"Portugal",NA,428.969
-"Qatar","Absent",328.875
-"Qatar","In the Home",391.424
-"Qatar",NA,305.585
+"Albania","Absent",404.276
+"Albania","In the Home",395.241
+"Argentina","Absent",376.39
+"Argentina","In the Home",405.445
+"Australia","Absent",450.39
+"Australia","In the Home",503.357
+"Austria","Absent",489.414
+"Austria","In the Home",511.653
+"Belgium","Absent",480.067
+"Belgium","In the Home",532.723
+"Brazil","Absent",355.593
+"Brazil","In the Home",389.71
+"Bulgaria","Absent",404.588
+"Bulgaria","In the Home",450.857
+"Canada","Absent",481.547
+"Canada","In the Home",515.041
+"Chile","Absent",416.584
+"Chile","In the Home",451.168
+"China-Shanghai","Absent",608.241
+"China-Shanghai","In the Home",623.781
+"Chinese Taipei","Absent",528.751
+"Chinese Taipei","In the Home",572.761
+"Colombia","Absent",365.174
+"Colombia","In the Home",396.877
+"Connecticut (USA)","Absent",453.7
+"Connecticut (USA)","In the Home",513.016
+"Costa Rica","Absent",387.296
+"Costa Rica","In the Home",409.184
+"Croatia","Absent",450.974
+"Croatia","In the Home",467.682
+"Czech Republic","Absent",495.801
+"Czech Republic","In the Home",527.582
+"Denmark","Absent",452.376
+"Denmark","In the Home",494.867
+"Estonia","Absent",513.328
+"Estonia","In the Home",522.909
+"Finland","Absent",479.249
+"Finland","In the Home",516.677
+"Florida (USA)","Absent",438.082
+"Florida (USA)","In the Home",473.446
+"France","Absent",466.903
+"France","In the Home",508.81
+"Germany","Absent",494.945
+"Germany","In the Home",527.582
+"Greece","Absent",411.365
+"Greece","In the Home",459.036
+"Hong Kong-China","Absent",544.797
+"Hong Kong-China","In the Home",573.851
+"Hungary","Absent",459.97
+"Hungary","In the Home",488.285
+"Iceland","Absent",466.007
+"Iceland","In the Home",499.735
+"Indonesia","Absent",349.322
+"Indonesia","In the Home",383.946
+"Ireland","Absent",464.371
+"Ireland","In the Home",508.81
+"Israel","Absent",472.2
+"Italy","Absent",475.277
+"Italy","In the Home",496.425
+"Japan","Absent",499.151
+"Japan","In the Home",544.135
+"Jordan","Absent",350.608
+"Jordan","In the Home",395.864
+"Kazakhstan","Absent",422.387
+"Kazakhstan","In the Home",429.319
+"Korea","Absent",522.052
+"Korea","In the Home",561.778
+"Latvia","Absent",483.105
+"Latvia","In the Home",500.319
+"Liechtenstein","Absent",525.323
+"Liechtenstein","In the Home",553.209
+"Lithuania","Absent",454.44
+"Lithuania","In the Home",483.845
+"Luxembourg","Absent",468.266
+"Luxembourg","In the Home",497.437
+"Macao-China","Absent",525.869
+"Macao-China","In the Home",544.096
+"Malaysia","Absent",386.439
+"Malaysia","In the Home",427.956
+"Massachusetts (USA)","Absent",464.605
+"Massachusetts (USA)","In the Home",519.092
+"Mexico","Absent",396.721
+"Mexico","In the Home",424.139
+"Montenegro","Absent",365.563
+"Montenegro","In the Home",410.586
+"Netherlands","Absent",477.029
+"Netherlands","In the Home",529.997
+"New Zealand","Absent",462.112
+"New Zealand","In the Home",508.109
+"Norway","Absent",463.008
+"Norway","In the Home",494.244
+"Perm(Russian Federation)","Absent",465.189
+"Perm(Russian Federation)","In the Home",493.231
+"Peru","Absent",352.516
+"Peru","In the Home",367.199
+"Poland","Absent",477.224
+"Poland","In the Home",525.168
+"Portugal","Absent",463.125
+"Portugal","In the Home",491.751
+"Qatar","Absent",322.644
+"Qatar","In the Home",391.268
+"Romania","Absent",413.779
+"Romania","In the Home",445.755
+"Russian Federation","Absent",469.396
+"Russian Federation","In the Home",488.557
+"Serbia","Absent",414.325
+"Serbia","In the Home",448.053
+"Singapore","Absent",540.435
+"Singapore","In the Home",579.148
+"Slovak Republic","Absent",448.793
+"Slovak Republic","In the Home",494.166
+"Slovenia","Absent",450.545
+"Slovenia","In the Home",486.221
+"Spain","Absent",470.798
+"Spain","In the Home",502.345
+"Sweden","Absent",435.901
+"Sweden","In the Home",486.221
+"Switzerland","Absent",501.059
+"Switzerland","In the Home",527.037
+"Thailand","Absent",406.146
+"Thailand","In the Home",447.352
+"Tunisia","Absent",354.502
+"Tunisia","In the Home",395.163
+"Turkey","Absent",392.748
+"Turkey","In the Home",448.286
+"United Arab Emirates","Absent",383.518
+"United Arab Emirates","In the Home",440.341
+"United Kingdom","Absent",459.114
+"United Kingdom","In the Home",498.684
+"United States of America","Absent",449.688
+"United States of America","In the Home",488.479
+"Uruguay","Absent",381.298
+"Uruguay","In the Home",418.765
+"Vietnam","Absent",486.376
+"Vietnam","In the Home",512.627

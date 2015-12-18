@@ -1,22 +1,16 @@
 function draw(data) {
-	var margin = 10,
-		width = 600 - margin,
-		height = 400 - margin,
-		barHeight = 20;
-
-	/* 0 http://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js */
-	var svg = d3.select("#chart")
-	  .append('svg')
-	  .attr("preserveAspectRatio", "xMinYMin meet")
-	  .attr('height', height + margin)
-	  .attr('width', width + margin)
-	  .append("g");
 
 	/* Use dimple.js to make the chart */
+	var svg = dimple.newSvg("#chart", '100%', '100%')
 	var myChart = new dimple.chart(svg, data);
-	myChart.addMeasureAxis("x", "Math");
-	myChart.addCategoryAxis('y', ['Country', 'Father']);
-	myChart.addSeries(null, dimple.plot.bar);
+	myChart.setMargins("200px", "10px", "10px", "40px");
+	var xAxis = myChart.addMeasureAxis("x", "Math");
+	xAxis.title = 'Median Math Score'
+	var yAxis = myChart.addCategoryAxis('y', ['Country', 'Father']);
+	yAxis.title = null;
+	myChart.addSeries('Father', dimple.plot.bar);
+	var myLegend = myChart.addLegend(500, 10, 100, 100);
+	myLegend.fontSize = '14px';
 	myChart.draw()
 
 	// Add a method to draw the chart on resize of the window
