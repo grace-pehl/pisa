@@ -10,30 +10,21 @@ I selected a bar chart so that the different colors of bars could be easily comp
 
 # Feedback 1
 
-Notice
-
-* Are there really no fathers in the home in Israel?
-* How are the items ordered?
-* What's the mean/median score or how should I interpret this data?
-
-Questions
-
-* What's a good score?
-* What kind of math and at what level are we talking about?  Algebra?  Calculus?
-
-Relationships
-
-* I notice that the blue is always higher for any given country.
-* I notice that there does seem to be a regional difference between places, is there a way to highlight those?  (e.g.--Oceania countries are blue, Asia black, etc.)
-
-Takeawys
-
-* Blue seems better than red.
-
-* Don't understand what I'm looking at or what I'm supposed to notice.  Nor do I really understand what I should interpret about the data.
-
-Best of luck,
-C******
+> ## Notice
+> * Are there really no fathers in the home in Israel?
+> * How are the items ordered?
+> * What's the mean/median score or how should I interpret this data?
+> ## Questions
+> * What's a good score?
+> * What kind of math and at what level are we talking about?  Algebra?  Calculus?
+> ## Relationships
+> * I notice that the blue is always higher for any given country.
+> * I notice that there does seem to be a regional difference between places, is there a way to highlight those?  (e.g.--Oceania countries are blue, Asia black, etc.)
+> ## Takeawys
+> * Blue seems better than red.
+> * Don't understand what I'm looking at or what I'm supposed to notice.  Nor do I really understand what I should interpret about the data.
+> Best of luck,
+> C******
 
 # Design following feedback 1
 
@@ -41,6 +32,7 @@ C******
 * Items seem to be ordered by increasing math score.  It looks pretty that way.  I experimented with listing the countries alphabetically, but the message was lost.  It was no longer clear that the blue bars were longer than the orange. Putting the top scoring countries first seems to make more sense.
 * Added a second x-axis to run along the top of the chart.  Increased the legend font from 14px to 20px and moved legend above the chart.  Changed category names of the 'Father' variable to include the word father to improve the legend.
 * I don't want to highlight regional differences, because that's not what this chart is about.
+* I added a text box with the summary information next to the chart.
 
 # Resources
 

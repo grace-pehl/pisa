@@ -25,5 +25,7 @@ function draw(data) {
 	};
 };
 
+var explanation_text = "The Programme for International Student Assessment (PISA) is an international survey to measure the knowlege and skills of 15-year-olds applied to real-life situations.  In 2012, 510,000 students in 65 economies took part in the assessment, which had a special focus on math skills.  In nearly every economy, students who lived with their father out-performed students whose father was absent.";
+d3.select("#explanation").append("p").text(explanation_text);
 d3.csv('data/pisaFatherData.csv', draw);
 	
