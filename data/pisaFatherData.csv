@@ -1,135 +1,135 @@
-"Country","Father","Math"
-"Albania","Father Absent",398.69
-"Albania","Father in the Home",393.526
-"Argentina","Father Absent",375.137
-"Argentina","Father in the Home",405.91
-"Australia","Father Absent",454.57
-"Australia","Father in the Home",503.678
-"Austria","Father Absent",491.663
-"Austria","Father in the Home",511.253
-"Belgium","Father Absent",480.359
-"Belgium","Father in the Home",527.95
-"Brazil","Father Absent",362.408
-"Brazil","Father in the Home",395.559
-"Bulgaria","Father Absent",411.468
-"Bulgaria","Father in the Home",452.522
-"Canada","Father Absent",481.508
-"Canada","Father in the Home",515.313
-"Chile","Father Absent",422.705
-"Chile","Father in the Home",454.798
-"China-Shanghai","Father Absent",597.368
-"China-Shanghai","Father in the Home",614.127
-"Chinese Taipei","Father Absent",521.225
-"Chinese Taipei","Father in the Home",564.439
-"Colombia","Father Absent",369.714
-"Colombia","Father in the Home",400.608
-"Connecticut (USA)","Father Absent",459.672
-"Connecticut (USA)","Father in the Home",512.961
-"Costa Rica","Father Absent",391.092
-"Costa Rica","Father in the Home",412.513
-"Croatia","Father Absent",456.949
-"Croatia","Father in the Home",471.299
-"Czech Republic","Father Absent",494.701
-"Czech Republic","Father in the Home",526.162
-"Denmark","Father Absent",455.267
-"Denmark","Father in the Home",494.14
-"Estonia","Father Absent",513.027
-"Estonia","Father in the Home",525.211
-"Finland","Father Absent",476.212
-"Finland","Father in the Home",515.721
-"Florida (USA)","Father Absent",439.407
-"Florida (USA)","Father in the Home",476.929
-"France","Father Absent",466.519
-"France","Father in the Home",505.922
-"Germany","Father Absent",491.873
-"Germany","Father in the Home",523.448
-"Greece","Father Absent",421.027
-"Greece","Father in the Home",458.005
-"Hong Kong-China","Father Absent",541.502
-"Hong Kong-China","Father in the Home",565.027
-"Hungary","Father Absent",465.712
-"Hungary","Father in the Home",490.113
-"Iceland","Father Absent",465.585
-"Iceland","Father in the Home",498.427
-"Indonesia","Father Absent",351.384
-"Indonesia","Father in the Home",389.412
-"Ireland","Father Absent",464.551
-"Ireland","Father in the Home",508.823
-"Italy","Father Absent",471.144
-"Italy","Father in the Home",495.076
-"Japan","Father Absent",498.724
-"Japan","Father in the Home",542.332
-"Jordan","Father Absent",349.872
-"Jordan","Father in the Home",396.832
-"Kazakhstan","Father Absent",425.766
-"Kazakhstan","Father in the Home",432.398
-"Korea","Father Absent",519.637
-"Korea","Father in the Home",558.897
-"Latvia","Father Absent",485.814
-"Latvia","Father in the Home",499.833
-"Liechtenstein","Father Absent",512.617
-"Liechtenstein","Father in the Home",543.669
-"Lithuania","Father Absent",458.447
-"Lithuania","Father in the Home",485.458
-"Luxembourg","Father Absent",469.386
-"Luxembourg","Father in the Home",494.225
-"Macao-China","Father Absent",520.144
-"Macao-China","Father in the Home",541.876
-"Malaysia","Father Absent",390.777
-"Malaysia","Father in the Home",431.184
-"Massachusetts (USA)","Father Absent",465.81
-"Massachusetts (USA)","Father in the Home",519.661
-"Mexico","Father Absent",399.281
-"Mexico","Father in the Home",426.865
-"Montenegro","Father Absent",377.195
-"Montenegro","Father in the Home",412.106
-"Netherlands","Father Absent",480.847
-"Netherlands","Father in the Home",525.4
-"New Zealand","Father Absent",470.464
-"New Zealand","Father in the Home",508.327
-"Norway","Father Absent",463.548
-"Norway","Father in the Home",494.114
-"Perm(Russian Federation)","Father Absent",468.255
-"Perm(Russian Federation)","Father in the Home",493.401
-"Peru","Father Absent",358.803
-"Peru","Father in the Home",371.309
-"Poland","Father Absent",486.789
-"Poland","Father in the Home",528.679
-"Portugal","Father Absent",462.768
-"Portugal","Father in the Home",491.006
-"Qatar","Father Absent",326.806
-"Qatar","Father in the Home",400.116
-"Romania","Father Absent",422.287
-"Romania","Father in the Home",450.805
-"Russian Federation","Father Absent",469.459
-"Russian Federation","Father in the Home",489.593
-"Serbia","Father Absent",417.746
-"Serbia","Father in the Home",452.743
-"Singapore","Father Absent",542.756
-"Singapore","Father in the Home",573.254
-"Slovak Republic","Father Absent",447.826
-"Slovak Republic","Father in the Home",495.616
-"Slovenia","Father Absent",459.098
-"Slovenia","Father in the Home",488.889
-"Spain","Father Absent",469.046
-"Spain","Father in the Home",499.586
-"Sweden","Father Absent",437.633
-"Sweden","Father in the Home",487.166
-"Switzerland","Father Absent",499.799
-"Switzerland","Father in the Home",525.41
-"Thailand","Father Absent",412.215
-"Thailand","Father in the Home",458.539
-"Tunisia","Father Absent",356.411
-"Tunisia","Father in the Home",398.634
-"Turkey","Father Absent",404.565
-"Turkey","Father in the Home",460.224
-"United Arab Emirates","Father Absent",390.417
-"United Arab Emirates","Father in the Home",444.633
-"United Kingdom","Father Absent",460.525
-"United Kingdom","Father in the Home",498.297
-"United States of America","Father Absent",454.019
-"United States of America","Father in the Home",492.623
-"Uruguay","Father Absent",388.026
-"Uruguay","Father in the Home",421.19
-"Vietnam","Father Absent",490.4
-"Vietnam","Father in the Home",515.685
+"Country","Father","Math","Difference"
+"Albania","Father Absent",398.69,-5.164
+"Albania","Father in the Home",393.526,-5.164
+"Argentina","Father Absent",375.137,30.773
+"Argentina","Father in the Home",405.91,30.773
+"Australia","Father Absent",454.57,49.108
+"Australia","Father in the Home",503.678,49.108
+"Austria","Father Absent",491.663,19.59
+"Austria","Father in the Home",511.253,19.59
+"Belgium","Father Absent",480.359,47.591
+"Belgium","Father in the Home",527.95,47.591
+"Brazil","Father Absent",362.408,33.151
+"Brazil","Father in the Home",395.559,33.151
+"Bulgaria","Father Absent",411.468,41.054
+"Bulgaria","Father in the Home",452.522,41.054
+"Canada","Father Absent",481.508,33.805
+"Canada","Father in the Home",515.313,33.805
+"Chile","Father Absent",422.705,32.093
+"Chile","Father in the Home",454.798,32.093
+"China-Shanghai","Father Absent",597.368,16.759
+"China-Shanghai","Father in the Home",614.127,16.759
+"Chinese Taipei","Father Absent",521.225,43.214
+"Chinese Taipei","Father in the Home",564.439,43.214
+"Colombia","Father Absent",369.714,30.894
+"Colombia","Father in the Home",400.608,30.894
+"Connecticut (USA)","Father Absent",459.672,53.289
+"Connecticut (USA)","Father in the Home",512.961,53.289
+"Costa Rica","Father Absent",391.092,21.421
+"Costa Rica","Father in the Home",412.513,21.421
+"Croatia","Father Absent",456.949,14.35
+"Croatia","Father in the Home",471.299,14.35
+"Czech Republic","Father Absent",494.701,31.461
+"Czech Republic","Father in the Home",526.162,31.461
+"Denmark","Father Absent",455.267,38.873
+"Denmark","Father in the Home",494.14,38.873
+"Estonia","Father Absent",513.027,12.184
+"Estonia","Father in the Home",525.211,12.184
+"Finland","Father Absent",476.212,39.509
+"Finland","Father in the Home",515.721,39.509
+"Florida (USA)","Father Absent",439.407,37.522
+"Florida (USA)","Father in the Home",476.929,37.522
+"France","Father Absent",466.519,39.403
+"France","Father in the Home",505.922,39.403
+"Germany","Father Absent",491.873,31.575
+"Germany","Father in the Home",523.448,31.575
+"Greece","Father Absent",421.027,36.978
+"Greece","Father in the Home",458.005,36.978
+"Hong Kong-China","Father Absent",541.502,23.525
+"Hong Kong-China","Father in the Home",565.027,23.525
+"Hungary","Father Absent",465.712,24.401
+"Hungary","Father in the Home",490.113,24.401
+"Iceland","Father Absent",465.585,32.842
+"Iceland","Father in the Home",498.427,32.842
+"Indonesia","Father Absent",351.384,38.028
+"Indonesia","Father in the Home",389.412,38.028
+"Ireland","Father Absent",464.551,44.272
+"Ireland","Father in the Home",508.823,44.272
+"Italy","Father Absent",471.144,23.932
+"Italy","Father in the Home",495.076,23.932
+"Japan","Father Absent",498.724,43.608
+"Japan","Father in the Home",542.332,43.608
+"Jordan","Father Absent",349.872,46.96
+"Jordan","Father in the Home",396.832,46.96
+"Kazakhstan","Father Absent",425.766,6.632
+"Kazakhstan","Father in the Home",432.398,6.632
+"Korea","Father Absent",519.637,39.26
+"Korea","Father in the Home",558.897,39.26
+"Latvia","Father Absent",485.814,14.019
+"Latvia","Father in the Home",499.833,14.019
+"Liechtenstein","Father Absent",512.617,31.052
+"Liechtenstein","Father in the Home",543.669,31.052
+"Lithuania","Father Absent",458.447,27.011
+"Lithuania","Father in the Home",485.458,27.011
+"Luxembourg","Father Absent",469.386,24.839
+"Luxembourg","Father in the Home",494.225,24.839
+"Macao-China","Father Absent",520.144,21.732
+"Macao-China","Father in the Home",541.876,21.732
+"Malaysia","Father Absent",390.777,40.407
+"Malaysia","Father in the Home",431.184,40.407
+"Massachusetts (USA)","Father Absent",465.81,53.851
+"Massachusetts (USA)","Father in the Home",519.661,53.851
+"Mexico","Father Absent",399.281,27.584
+"Mexico","Father in the Home",426.865,27.584
+"Montenegro","Father Absent",377.195,34.911
+"Montenegro","Father in the Home",412.106,34.911
+"Netherlands","Father Absent",480.847,44.553
+"Netherlands","Father in the Home",525.4,44.553
+"New Zealand","Father Absent",470.464,37.863
+"New Zealand","Father in the Home",508.327,37.863
+"Norway","Father Absent",463.548,30.566
+"Norway","Father in the Home",494.114,30.566
+"Perm(Russian Federation)","Father Absent",468.255,25.146
+"Perm(Russian Federation)","Father in the Home",493.401,25.146
+"Peru","Father Absent",358.803,12.506
+"Peru","Father in the Home",371.309,12.506
+"Poland","Father Absent",486.789,41.89
+"Poland","Father in the Home",528.679,41.89
+"Portugal","Father Absent",462.768,28.238
+"Portugal","Father in the Home",491.006,28.238
+"Qatar","Father Absent",326.806,73.31
+"Qatar","Father in the Home",400.116,73.31
+"Romania","Father Absent",422.287,28.518
+"Romania","Father in the Home",450.805,28.518
+"Russian Federation","Father Absent",469.459,20.134
+"Russian Federation","Father in the Home",489.593,20.134
+"Serbia","Father Absent",417.746,34.997
+"Serbia","Father in the Home",452.743,34.997
+"Singapore","Father Absent",542.756,30.498
+"Singapore","Father in the Home",573.254,30.498
+"Slovak Republic","Father Absent",447.826,47.79
+"Slovak Republic","Father in the Home",495.616,47.79
+"Slovenia","Father Absent",459.098,29.791
+"Slovenia","Father in the Home",488.889,29.791
+"Spain","Father Absent",469.046,30.54
+"Spain","Father in the Home",499.586,30.54
+"Sweden","Father Absent",437.633,49.533
+"Sweden","Father in the Home",487.166,49.533
+"Switzerland","Father Absent",499.799,25.611
+"Switzerland","Father in the Home",525.41,25.611
+"Thailand","Father Absent",412.215,46.324
+"Thailand","Father in the Home",458.539,46.324
+"Tunisia","Father Absent",356.411,42.223
+"Tunisia","Father in the Home",398.634,42.223
+"Turkey","Father Absent",404.565,55.659
+"Turkey","Father in the Home",460.224,55.659
+"United Arab Emirates","Father Absent",390.417,54.216
+"United Arab Emirates","Father in the Home",444.633,54.216
+"United Kingdom","Father Absent",460.525,37.772
+"United Kingdom","Father in the Home",498.297,37.772
+"United States of America","Father Absent",454.019,38.604
+"United States of America","Father in the Home",492.623,38.604
+"Uruguay","Father Absent",388.026,33.164
+"Uruguay","Father in the Home",421.19,33.164
+"Vietnam","Father Absent",490.4,25.285
+"Vietnam","Father in the Home",515.685,25.285
