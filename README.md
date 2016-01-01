@@ -8,7 +8,7 @@ I initially intended to do an interactive visualization that would compare diffe
 
 I selected a bar chart so that the different colors of bars could be easily compared for each country.  Since the country names are long, I ran the bars horizontally, so that the country labels would be easy to read.  I included a legend, but couldn't figure out how to give the legend a title.  I had been trying to put a caption box next to the chart, but took it out due to layout problems.  I think that with the headline and the legend that the chart will speak for itself.
 
-# Feedback 1
+# Feedback 1 (on commit 609bc67)
 
 > ## Notice
 > * Are there really no fathers in the home in Israel?
@@ -34,7 +34,7 @@ I selected a bar chart so that the different colors of bars could be easily comp
 * I don't want to highlight regional differences, because that's not what this chart is about.
 * I added a text box with the summary information next to the chart.
 
-# Feedback 2
+# Feedback 2 (on commit f56d378)
 
 > * What do you notice in the visualization?
 > I find it hard to read.  The bars on the graph are to close together and the bars need to be wider.  You need to have a space between each country.  You say where the data comes from but you don’t tell the viewer that if you hold your mouse over the bar you will find out the exact number. 
@@ -57,6 +57,31 @@ I selected a bar chart so that the different colors of bars could be easily comp
 * I added a sentance about how the scores were normalized.  I worried that it might be too technical, but I asked J*** (who works in sales) and didn't think so.
 * I created a custom tooltip that displays the difference in scores.
 * Would it mean more to state the average national difference or to lump all the countries together?  A country could have a larger gap, but a much smaller percentage of absent fathers, or vice versa.  Ideally, I'd like to show a histogram of the score gaps with a tooltip listing the countries in that bin.  However, dimple does not currently support histograms. (It's [issue #107](https://github.com/PMSI-AlignAlytics/dimple/issues/107))  If I knew more programming, that could be a cool open source project to work on...but I need to finish the DAND first. 
+
+# Feedback #3 (on commit 4a6815e)
+
+> I am unsure what your target audience is for this webpage. If it is more for the general populace, I would divide the table into 3 or more tables that clearly state what information you are trying to display. For example, labeling them something along the lines of "Good, Average, and Poor" would convey a clear message about what knowledge a person should be able to extract from the data.
+
+> If the targeted audience is supposed to be more for just the presentation of knowledge, where the individual is can interpret the data as they choose, you might still want to divide the table into smaller charts. The whole chart will not fit on most screens. The way my resolution is set, I lose the data headings while scrolling through. The lines show up well, but it is hard to follow where a specific number in the middle of the chart falls.
+
+> You might also consider grouping the countries in the same manner throughout the chart. The first Country is labeled "China-Shaghai" yet two down you label "Hong Kong-China." Later on, you change to parentheses and leave out the dash. Example "Massachusetts (USA)." Grouping alphabetically would also make it easier to flow through and find the information you're looking for. Then again, if you're trying to convey better math scores vs poorer, you should probably label the chart as such.
+
+> I like the justification of the text. I would, however, fix the sentence "In 2012, 510,000 students in 65 economies took part in the assessment, which had a special focus on math skills." It reads like a run-on sentence. "510,000 students in sixty-five economies took part in this 2012 assessment which had a special focus on math skills." reads and looks better when formatted.
+
+> In order to convey a profession appearance, I would also choose a less pink font for the top banner. The use of the bright color is usually a sign that the page was created by an adolescent. 
+
+> I hope this helps.
+
+> M******
+
+# Design changes as a result of feedback 3
+
+* Changed the title of the chart to make the takeaway message more clear.
+* It's true that not all the countries fit on the screen at once.  More bars would fit if the bars were vertical, but then the country names would be vertical which would be hard to read.  I could use a subset of countries, but it feels rather arbitrary.  I'm not sure which to pick.  This data could also be displayed as a scatterplot with y = Math Score for Father in the Home and x = Math Score for Father Absent.  Then, every country (except Albania) would fall below a diagonal line with slope=1.  I think that would be much less intuitive than noticing that blue bars are longer than orange bars.
+* M didn't notice my tooltip animation.  Added a line in the explanation (as J had suggested.  I didn't think it was essential, but two of three people needed to have it)
+* The economies were labeled this way in the PISA dataset.  I'm hesitant to rename any of them given the footnotes about what is and is not a recognized separate entity.  There may be significance to the formatting of the names that I'm just not aware of.
+* I don't like beginning a sentance with a number, but I see that the two numbers in a row could be confusing.  Revised the sentance.
+* I like the purple. I haven't been an adolescent for decades, but don't want to be accused of being one.  I changed the title back to the Udacious Orange used in the Javascript Basics resume project, but then it clashed with the orange in the chart.  I did see how to create a custom chart palette in dimple.js, but I learned from another Data Vis class, that trying to pair colors is very difficult.  I looked at the other colors used in the Javascript resume css file and went with white.
 
 # Resources
 

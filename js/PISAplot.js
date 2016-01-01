@@ -36,8 +36,8 @@ function draw(data) {
 	};
 };
 
-var explanation_text = ["The Programme for International Student Assessment (PISA) is an international survey to measure the knowlege and skills of 15-year-olds applied to real-life situations.  In 2012, 510,000 students in 65 economies took part in the assessment, which had a special focus on math skills.  Scores are normalized such that the average score is 500 (st dev 100) for countries belonging to the OECD (Organization for Economic Co-operation and Development).", 
-						"In nearly every economy, students who lived with their father out-performed students whose father was absent.  A difference of 34 points is equivalent to almost a full year of education."];
+var explanation_text = ["The Programme for International Student Assessment (PISA) is an international survey to measure the knowlege and skills of 15-year-olds applied to real-life situations.  The 2012 assessment was administered to 510,000 students in 65 economies and had a special focus on math skills.  Scores are normalized such that the average score is 500 (st dev 100) for countries belonging to the OECD (Organization for Economic Co-operation and Development).", 
+						"In nearly every economy, students who lived with their father out-performed students whose father was absent.  A difference of 34 points is equivalent to almost a full year of education.  Mouse over the chart to see the exact difference for each country."];
 d3.select("#explanation")
 	.append("p")
 	.text(explanation_text[0]);
