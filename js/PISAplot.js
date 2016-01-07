@@ -20,8 +20,8 @@ function draw(data) {
 	mySeries.getTooltipText = function (e) {
 		return [
 		e.aggField[0], 
-		' (' + e.aggField[3] + ") Math Score: " + e.aggField[1],
-		"Father makes a difference of " + e.aggField[2] + " points."
+		' (' + e.aggField[3] + ") Math Score: " + Math.round(e.aggField[1]),
+		"Father makes a difference of " + Math.round(e.aggField[2]) + " points."
 		];
 	};
 	
