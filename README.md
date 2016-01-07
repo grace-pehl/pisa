@@ -61,7 +61,7 @@ I selected a bar chart so that the different colors of bars could be easily comp
 * I created a custom tooltip that displays the difference in scores.
 * Would it mean more to state the average national difference or to lump all the countries together?  A country could have a larger gap, but a much smaller percentage of absent fathers, or vice versa.  Ideally, I'd like to show a histogram of the score gaps with a tooltip listing the countries in that bin.  However, dimple does not currently support histograms. (It's [issue #107](https://github.com/PMSI-AlignAlytics/dimple/issues/107))  If I knew more programming, that could be a cool open source project to work on...but I need to finish the DAND first. 
 
-# Feedback #3 (on [commit 4a6815e](http://htmlpreview.github.io/?https://github.com/grace-pehl/pisa/blob/4a6815e8977a536a72f205d3debc6186791e5538/index.html)
+# Feedback #3 (on [commit 4a6815e](http://htmlpreview.github.io/?https://github.com/grace-pehl/pisa/blob/4a6815e8977a536a72f205d3debc6186791e5538/index.html))
 
 > I am unsure what your target audience is for this webpage. If it is more for the general populace, I would divide the table into 3 or more tables that clearly state what information you are trying to display. For example, labeling them something along the lines of "Good, Average, and Poor" would convey a clear message about what knowledge a person should be able to extract from the data.
 
