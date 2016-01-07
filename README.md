@@ -10,7 +10,8 @@ I initially intended to do an interactive visualization that would compare diffe
 
 I selected a bar chart so that the different colors of bars could be easily compared for each country.  Since the country names are long, I ran the bars horizontally, so that the country labels would be easy to read.  I included a legend, but couldn't figure out how to give the legend a title.  I had been trying to put a caption box next to the chart, but took it out due to layout problems.  I think that with the headline and the legend that the chart will speak for itself.
 
-# Feedback 1 (on initial design, [commit 609bc67](http://htmlpreview.github.io/?https://github.com/grace-pehl/pisa/blob/609bc676812770de1afc0409cf57483415ce17e2/index.html))   **Note**: *Links to old commits seem to be slower to load*
+# Feedback 1 (on initial design, [commit 609bc67](http://htmlpreview.github.io/?https://github.com/grace-pehl/pisa/blob/609bc676812770de1afc0409cf57483415ce17e2/index.html)) 
+**Note**: *Links to old commits seem to be slower to load*
 
 > ## Notice
 > * Are there really no fathers in the home in Israel?
